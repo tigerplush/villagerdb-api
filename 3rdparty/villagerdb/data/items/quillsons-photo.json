@@ -1,0 +1,13 @@
+{
+  "id": "quillsons-photo",
+  "name": "Quillson's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

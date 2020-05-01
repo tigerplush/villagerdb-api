@@ -1,0 +1,25 @@
+{
+  "id": "baggy-shirt",
+  "name": "Baggy Shirt",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 40
+        }
+      ],
+      "variations": {
+        "gray": "Gray",
+        "black": "Black",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Tops"
+}

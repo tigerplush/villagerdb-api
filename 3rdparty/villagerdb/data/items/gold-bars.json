@@ -1,0 +1,23 @@
+{
+  "id": "gold-bars",
+  "name": "Gold Bars",
+  "games": {
+    "nh": {
+      "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 30000
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 120000
+        }
+      ],
+      "recipe": {
+        "gold-nugget": 3
+      }
+    }
+  },
+  "category": "Furniture"
+}

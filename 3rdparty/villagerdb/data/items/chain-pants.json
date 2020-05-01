@@ -1,0 +1,25 @@
+{
+  "id": "chain-pants",
+  "name": "Chain Pants",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 325
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1300
+        }
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "shellfish-pochette",
+  "name": "Shellfish Pochette",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10800
+      },
+      "variations": {
+        "white": "White"
+      }
+    }
+  },
+  "category": "Accessories"
+}

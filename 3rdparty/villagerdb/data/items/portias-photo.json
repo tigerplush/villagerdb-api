@@ -1,0 +1,13 @@
+{
+  "id": "portias-photo",
+  "name": "Portia's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

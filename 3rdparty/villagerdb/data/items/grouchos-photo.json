@@ -1,0 +1,13 @@
+{
+  "id": "grouchos-photo",
+  "name": "Groucho's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

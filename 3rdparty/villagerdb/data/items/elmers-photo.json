@@ -1,0 +1,13 @@
+{
+  "id": "elmers-photo",
+  "name": "Elmer's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

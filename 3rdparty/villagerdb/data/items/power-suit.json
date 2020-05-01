@@ -1,0 +1,25 @@
+{
+  "id": "power-suit",
+  "name": "Power Suit",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 945
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3780
+        }
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "green": "Green",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Dresses"
+}

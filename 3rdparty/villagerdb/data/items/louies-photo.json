@@ -1,0 +1,13 @@
+{
+  "id": "louies-photo",
+  "name": "Louie's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

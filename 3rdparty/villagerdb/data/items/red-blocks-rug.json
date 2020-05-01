@@ -1,0 +1,22 @@
+{
+  "id": "red-blocks-rug",
+  "name": "Red Blocks Rug",
+  "games": {
+    "nh": {
+      "sources": [
+        "Saharah"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1500
+        }
+      ]
+    }
+  },
+  "category": "Flooring"
+}

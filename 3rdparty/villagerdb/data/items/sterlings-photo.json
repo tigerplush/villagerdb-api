@@ -1,0 +1,13 @@
+{
+  "id": "sterlings-photo",
+  "name": "Sterling's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cesars-photo",
+  "name": "Cesar's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

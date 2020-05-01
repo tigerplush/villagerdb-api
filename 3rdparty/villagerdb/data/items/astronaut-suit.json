@@ -1,0 +1,14 @@
+{
+  "id": "astronaut-suit",
+  "name": "Astronaut Suit",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 6250
+      }
+    }
+  },
+  "category": "Furniture"
+}

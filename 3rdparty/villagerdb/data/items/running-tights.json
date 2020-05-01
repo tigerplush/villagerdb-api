@@ -1,0 +1,25 @@
+{
+  "id": "running-tights",
+  "name": "Running Tights",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 137
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 550
+        }
+      ],
+      "variations": {
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Socks"
+}

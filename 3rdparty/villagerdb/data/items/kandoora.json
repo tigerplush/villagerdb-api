@@ -1,0 +1,24 @@
+{
+  "id": "kandoora",
+  "name": "Kandoora",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 630
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2520
+        }
+      ],
+      "variations": {
+        "white": "White",
+        "brown": "Brown",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Dresses"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "wooden-block-bench",
+  "name": "Wooden-block Bench",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 840
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3360
+        }
+      ],
+      "variations": {
+        "natural": "Natural",
+        "mixed-wood": "Mixed wood",
+        "colorful": "Colorful",
+        "pastel": "Pastel",
+        "vivid": "Vivid"
+      }
+    }
+  },
+  "category": "Furniture"
+}

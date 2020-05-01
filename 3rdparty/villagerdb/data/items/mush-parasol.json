@@ -1,0 +1,26 @@
+{
+  "id": "mush-parasol",
+  "name": "Mush Parasol",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1200
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4800
+        }
+      ],
+      "variations": {
+        "ordinary-mushroom": "Ordinary mushroom",
+        "white-mushroom": "White mushroom",
+        "strange-mushroom": "Strange mushroom",
+        "red-mushroom": "Red mushroom",
+        "yellow-mushroom": "Yellow mushroom"
+      }
+    }
+  },
+  "category": "Furniture"
+}

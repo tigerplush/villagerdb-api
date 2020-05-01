@@ -1,0 +1,13 @@
+{
+  "id": "ohares-photo",
+  "name": "O'hare's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

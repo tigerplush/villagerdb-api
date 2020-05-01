@@ -1,0 +1,13 @@
+{
+  "id": "ketchups-photo",
+  "name": "Ketchup's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

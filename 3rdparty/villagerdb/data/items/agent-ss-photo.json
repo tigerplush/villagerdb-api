@@ -1,0 +1,13 @@
+{
+  "id": "agent-ss-photo",
+  "name": "Agent S's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

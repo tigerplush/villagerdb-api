@@ -1,0 +1,25 @@
+{
+  "id": "polka-dot-mini-skirt",
+  "name": "Polka-dot Mini Skirt",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 275
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1100
+        }
+      ],
+      "variations": {
+        "beige": "Beige",
+        "pink": "Pink",
+        "blue": "Blue",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dal-sunglasses",
+  "name": "Dal Sunglasses",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1010
+      },
+      "variations": {
+        "yellow": "Yellow"
+      }
+    }
+  },
+  "category": "Accessories"
+}

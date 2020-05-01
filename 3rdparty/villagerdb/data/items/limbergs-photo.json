@@ -1,0 +1,13 @@
+{
+  "id": "limbergs-photo",
+  "name": "Limberg's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

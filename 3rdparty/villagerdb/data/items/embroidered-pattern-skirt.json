@@ -1,0 +1,24 @@
+{
+  "id": "embroidered-pattern-skirt",
+  "name": "Embroidered-pattern Skirt",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 275
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1100
+        }
+      ],
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

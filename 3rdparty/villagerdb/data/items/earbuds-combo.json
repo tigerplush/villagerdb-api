@@ -1,0 +1,25 @@
+{
+  "id": "earbuds-combo",
+  "name": "Earbuds Combo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 350
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1400
+        }
+      ],
+      "variations": {
+        "brown": "Brown",
+        "green": "Green",
+        "blue": "Blue",
+        "yellow": "Yellow"
+      }
+    }
+  },
+  "category": "Tops"
+}

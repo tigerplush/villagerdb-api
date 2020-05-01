@@ -1,0 +1,13 @@
+{
+  "id": "pluckys-photo",
+  "name": "Plucky's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

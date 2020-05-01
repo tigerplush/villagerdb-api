@@ -1,0 +1,19 @@
+{
+  "id": "bamboo-speaker",
+  "name": "Bamboo Speaker",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1230
+      },
+      "variations": {
+        "green-bamboo": "Green bamboo",
+        "dried-bamboo": "Dried bamboo",
+        "smoke-cured-bamboo": "Smoke-cured bamboo"
+      }
+    }
+  },
+  "category": "Furniture"
+}

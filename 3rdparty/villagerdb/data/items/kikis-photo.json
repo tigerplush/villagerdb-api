@@ -1,0 +1,13 @@
+{
+  "id": "kikis-photo",
+  "name": "Kiki's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}

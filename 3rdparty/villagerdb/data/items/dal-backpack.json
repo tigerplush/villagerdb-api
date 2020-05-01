@@ -1,0 +1,17 @@
+{
+  "id": "dal-backpack",
+  "name": "Dal Backpack",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1010
+      },
+      "variations": {
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

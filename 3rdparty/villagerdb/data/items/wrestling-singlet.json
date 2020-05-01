@@ -1,0 +1,24 @@
+{
+  "id": "wrestling-singlet",
+  "name": "Wrestling Singlet",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 385
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1540
+        }
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Dresses"
+}

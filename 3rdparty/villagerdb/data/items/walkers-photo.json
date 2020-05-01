@@ -1,0 +1,13 @@
+{
+  "id": "walkers-photo",
+  "name": "Walker's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
+    }
+  },
+  "category": "Photos"
+}
