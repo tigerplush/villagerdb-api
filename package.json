@@ -1,0 +1,24 @@
+{
+  "name": "villagerdb-api",
+  "version": "1.0.0",
+  "description": "An api for data of the villagerdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigerplush/villagerdb-api.git"
+  },
+  "author": "Christopher 'Tiger' Putz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tigerplush/villagerdb-api/issues"
+  },
+  "homepage": "https://github.com/tigerplush/villagerdb-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}

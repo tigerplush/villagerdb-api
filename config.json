@@ -1,0 +1,6 @@
+{
+    "port": 3001,
+    "dataPath": "./3rdparty/villagerdb/data",
+    "itemFolder": "items",
+    "villagerFolder": "villagers"
+}
