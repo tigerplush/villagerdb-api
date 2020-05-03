@@ -61,7 +61,7 @@ class Database
             const fileNames = fs.readdirSync(contentPath).filter(file => file.endsWith('.json'));
             console.log("Trying to load " + fileNames.length + " items");
     
-            const filePromises = fileNames.map(file => contentPath + '\\' + file).map(this.loadEntry);
+            const filePromises = fileNames.map(file => path.join(contentPath, file)).map(this.loadEntry);
             Promise.all(filePromises)
             .then(fileBuffers =>
                 {
